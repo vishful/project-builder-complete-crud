@@ -40,6 +40,10 @@ Download ojdbc6.jar from the given link [https://www.oracle.com/database/technol
 
 ## PROGRESSION :
 - Complete your entire week - 4 project into a database project. This means, you need to implement all the modules with the use of databases. 
+
+Build module by module and finish up the project.
+
+![Image description](https://i1.faceprep.in/ProGrad/sql-module.gif)
  
 ## Run the Project
 1. Right click on the project.
