@@ -1,10 +1,10 @@
 ![Image description](https://i1.faceprep.in/ProGrad/face-logo-resized.png)
 
-# ProGrad Project Builder | Try Connecting with DATABASE
+# ProGrad Project Builder | Connecting with DATABASE
 
 ## A Quick Introduction
 
-Re-write your entire week - 4 project into a database project
+This lab will be completely based on your week-4 Java project.
 
 ## What should you do
 ```
@@ -39,12 +39,12 @@ Download ojdbc6.jar from the given link [https://www.oracle.com/database/technol
 .***
 
 ## PROGRESSION :
-- **Complete your entire week - 4 project into a database project.** 
+- Complete your entire week - 4 project into a database project. This means, you need to implement all the modules with the use of databases. 
  
 ## Run the Project
-1. ***Right click on the project.***
-2. ***Go to Run as -> Run as Java Application.***
-3. ***You can check the output in eclipse console.***
+1. Right click on the project.
+2. Go to Run as -> Run as Java Application.
+3. You can check the output in eclipse console.
 
 ### Note:
 
